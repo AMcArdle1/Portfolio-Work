@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Futura, Helvetica, Arial;
+    background-image: linear-gradient(to bottom, white, steelblue);
+    background-repeat: no-repeat;    
+}
+
+nav ul {
+    border: 2px solid black;
+}
+
+#wrapper {
+    border: 5px solid fuchsia;
+    margin: 0 auto;
+    padding: .25em;
+    box-shadow: 3px 3px black;
+}
+
+#main li {
+    display: inline;
+    padding: .5em;
+}
+
+#sidebarA {
+    float: left;
+    width: 33%;
+    padding: .25em;
+}
+
+main {
+    float: left;
+    width: 33%;
+    padding: .25em;
+    border-left: 2px solid black;
+    border-right: 2px solid black; 
+}
+
+#sidebarB {
+    float: right;
+    width: 33%;
+    padding: .25em;
+}
+
+footer {
+    clear: both; 
+    text-align: right;
+    border: 2px solid black; 
+    padding: .75em;
+}
+
+img {
+    margin: auto;
+    width: 100%;   
+}
+
+h1 {
+    text-shadow: 2px 2px fuchsia;
+}
+
+#spotlight {
+    background-image: url(/FirstDraftPortfolio/images/space2.jpg);
+    margin: auto;
+    min-width: auto;
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}

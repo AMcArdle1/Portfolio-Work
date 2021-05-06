@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+#cover-main {
+    background-image: url("/images/space2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#cover-main a {
+    text-decoration: none;
+    color: black;
+}
+
+#picture_me {
+    width: 50%;
+    height: auto;
+}
+
+
