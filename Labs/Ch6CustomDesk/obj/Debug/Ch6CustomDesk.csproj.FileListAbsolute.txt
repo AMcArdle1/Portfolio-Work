@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\bin\Debug\Ch6CustomDesk.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\bin\Debug\Ch6CustomDesk.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\bin\Debug\Ch6CustomDesk.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CustomDesk\obj\Debug\Ch6CustomDesk.pdb

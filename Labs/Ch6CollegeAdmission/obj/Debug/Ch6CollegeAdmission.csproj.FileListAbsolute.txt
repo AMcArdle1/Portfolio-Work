@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\bin\Debug\Ch6CollegeAdmission.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\bin\Debug\Ch6CollegeAdmission.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\bin\Debug\Ch6CollegeAdmission.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.CollegeAdmissions.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CollegeAdmission\obj\Debug\Ch6CollegeAdmission.pdb

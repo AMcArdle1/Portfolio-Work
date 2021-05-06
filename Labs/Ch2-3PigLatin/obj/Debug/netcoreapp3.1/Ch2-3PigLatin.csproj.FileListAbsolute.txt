@@ -1,0 +1,12 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\bin\Debug\netcoreapp3.1\Ch2-3PigLatin.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\bin\Debug\netcoreapp3.1\Ch2-3PigLatin.deps.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\bin\Debug\netcoreapp3.1\Ch2-3PigLatin.runtimeconfig.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\bin\Debug\netcoreapp3.1\Ch2-3PigLatin.runtimeconfig.dev.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\bin\Debug\netcoreapp3.1\Ch2-3PigLatin.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\bin\Debug\netcoreapp3.1\Ch2-3PigLatin.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\obj\Debug\netcoreapp3.1\Ch2-3PigLatin.AssemblyInfoInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\obj\Debug\netcoreapp3.1\Ch2-3PigLatin.AssemblyInfo.cs
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\obj\Debug\netcoreapp3.1\Ch2-3PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\obj\Debug\netcoreapp3.1\Ch2-3PigLatin.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\obj\Debug\netcoreapp3.1\Ch2-3PigLatin.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3PigLatin\obj\Debug\netcoreapp3.1\Ch2-3PigLatin.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\bin\Debug\Ch6Vowels.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\bin\Debug\Ch6Vowels.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\bin\Debug\Ch6Vowels.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6Vowels\obj\Debug\Ch6Vowels.pdb

@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\bin\Debug\Ch12Conferences.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\bin\Debug\Ch12Conferences.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\bin\Debug\Ch12Conferences.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Conferences\obj\Debug\Ch12Conferences.pdb

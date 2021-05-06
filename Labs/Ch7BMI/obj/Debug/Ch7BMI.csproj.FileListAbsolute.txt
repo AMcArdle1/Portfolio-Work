@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\bin\Debug\Ch7BMI.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\bin\Debug\Ch7BMI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\bin\Debug\Ch7BMI.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7BMI\obj\Debug\Ch7BMI.pdb

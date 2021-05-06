@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\bin\Debug\Ch8GameDatabase.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\bin\Debug\Ch8GameDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\bin\Debug\Ch8GameDatabase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8GameDatabase\obj\Debug\Ch8GameDatabase.FormGameBreak.resources

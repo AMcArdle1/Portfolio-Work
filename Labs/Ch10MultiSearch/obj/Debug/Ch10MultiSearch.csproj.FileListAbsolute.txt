@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\bin\Debug\Ch10MultiSearch.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\bin\Debug\Ch10MultiSearch.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\bin\Debug\Ch10MultiSearch.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.FormMS.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10MultiSearch\obj\Debug\Ch10MultiSearch.pdb

@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\bin\Debug\Ch12FoodOrder.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\bin\Debug\Ch12FoodOrder.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\bin\Debug\Ch12FoodOrder.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FoodOrder\obj\Debug\Ch12FoodOrder.pdb

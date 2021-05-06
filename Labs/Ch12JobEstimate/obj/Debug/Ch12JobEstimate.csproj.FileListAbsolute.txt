@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\bin\Debug\Ch12JobEstimate.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\bin\Debug\Ch12JobEstimate.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\bin\Debug\Ch12JobEstimate.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12JobEstimate\obj\Debug\Ch12JobEstimate.FormJE.resources

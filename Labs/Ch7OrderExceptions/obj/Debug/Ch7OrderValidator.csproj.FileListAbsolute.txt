@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\bin\Debug\Ch7OrderExceptions.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\bin\Debug\Ch7OrderExceptions.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\bin\Debug\Ch7OrderExceptions.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderValidator.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderExceptions.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderExceptions.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderValidator.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderValidator.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderExceptions.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch7OrderExceptions\obj\Debug\Ch7OrderExceptions.pdb

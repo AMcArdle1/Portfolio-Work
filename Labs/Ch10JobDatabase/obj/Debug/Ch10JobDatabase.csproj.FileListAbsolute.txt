@@ -1,0 +1,11 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\bin\Debug\Ch10JobDatabase.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\bin\Debug\Ch10JobDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\bin\Debug\Ch10JobDatabase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.FormJDB.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10JobDatabase\obj\Debug\Ch10JobDatabase.FormSR.resources

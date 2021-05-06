@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\bin\Debug\Ch6PaintingEstimate.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\bin\Debug\Ch6PaintingEstimate.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\bin\Debug\Ch6PaintingEstimate.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6PaintingEstimate\obj\Debug\Ch6PaintingEstimate.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\bin\Debug\SQLQueryTester.exe.config
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\bin\Debug\SQLQueryTester.exe
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\bin\Debug\SQLQueryTester.pdb
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.FrmSQLQueryTester.resources
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.Properties.Resources.resources
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.exe
+C:\Users\Atomi\Desktop\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.pdb
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\bin\Debug\SQLQueryTester.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\bin\Debug\SQLQueryTester.exe
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\bin\Debug\SQLQueryTester.pdb
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.FrmSQLQueryTester.resources
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.exe
+C:\Users\Atomi\Desktop\AWD1100\Database Work\SQLQueryTester\SQLQueryTester\obj\Debug\SQLQueryTester.pdb

@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\bin\Debug\Ch14-15Photos.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\bin\Debug\Ch14-15Photos.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\bin\Debug\Ch14-15Photos.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14-15Photos.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14_15Photos.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14-15Photos.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14-15Photos.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14-15Photos.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14-15Photos.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch14-15Photos\obj\Debug\Ch14_15Photos.FormPhotoShop.resources

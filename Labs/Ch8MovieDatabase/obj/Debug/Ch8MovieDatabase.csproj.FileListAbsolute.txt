@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\bin\Debug\Ch8MovieDatabase.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\bin\Debug\Ch8MovieDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\bin\Debug\Ch8MovieDatabase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8MovieDatabase\obj\Debug\Ch8MovieDatabase.pdb

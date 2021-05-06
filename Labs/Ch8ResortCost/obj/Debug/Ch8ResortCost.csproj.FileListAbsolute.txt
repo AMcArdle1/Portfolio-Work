@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\bin\Debug\Ch8ResortCost.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\bin\Debug\Ch8ResortCost.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\bin\Debug\Ch8ResortCost.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.FormResort.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ResortCost\obj\Debug\Ch8ResortCost.pdb

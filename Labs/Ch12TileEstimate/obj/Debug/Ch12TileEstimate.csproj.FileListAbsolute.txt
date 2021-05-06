@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\bin\Debug\Ch12TileEstimate.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\bin\Debug\Ch12TileEstimate.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\bin\Debug\Ch12TileEstimate.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12TileEstimate\obj\Debug\Ch12TileEstimate.csprojAssemblyReference.cache

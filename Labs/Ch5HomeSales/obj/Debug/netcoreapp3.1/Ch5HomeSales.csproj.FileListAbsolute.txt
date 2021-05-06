@@ -1,0 +1,12 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\bin\Debug\netcoreapp3.1\Ch5HomeSales.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\bin\Debug\netcoreapp3.1\Ch5HomeSales.deps.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\bin\Debug\netcoreapp3.1\Ch5HomeSales.runtimeconfig.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\bin\Debug\netcoreapp3.1\Ch5HomeSales.runtimeconfig.dev.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\bin\Debug\netcoreapp3.1\Ch5HomeSales.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\bin\Debug\netcoreapp3.1\Ch5HomeSales.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\obj\Debug\netcoreapp3.1\Ch5HomeSales.AssemblyInfoInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\obj\Debug\netcoreapp3.1\Ch5HomeSales.AssemblyInfo.cs
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\obj\Debug\netcoreapp3.1\Ch5HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\obj\Debug\netcoreapp3.1\Ch5HomeSales.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\obj\Debug\netcoreapp3.1\Ch5HomeSales.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSales\obj\Debug\netcoreapp3.1\Ch5HomeSales.genruntimeconfig.cache

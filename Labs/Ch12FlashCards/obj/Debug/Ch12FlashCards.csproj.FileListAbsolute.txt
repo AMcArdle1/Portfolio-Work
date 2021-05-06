@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\bin\Debug\Ch12FlashCards.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\bin\Debug\Ch12FlashCards.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\bin\Debug\Ch12FlashCards.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12FlashCards\obj\Debug\Ch12FlashCards.csprojAssemblyReference.cache

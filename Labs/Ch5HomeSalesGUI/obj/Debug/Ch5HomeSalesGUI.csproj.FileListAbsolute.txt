@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\bin\Debug\Ch5HomeSalesGUI.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\bin\Debug\Ch5HomeSalesGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\bin\Debug\Ch5HomeSalesGUI.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5HomeSalesGUI\obj\Debug\Ch5HomeSalesGUI.pdb

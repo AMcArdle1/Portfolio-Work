@@ -1,0 +1,13 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\bin\Debug\netcoreapp3.1\Ch2-3MilesConverter.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\bin\Debug\netcoreapp3.1\Ch2-3MilesConverter.deps.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\bin\Debug\netcoreapp3.1\Ch2-3MilesConverter.runtimeconfig.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\bin\Debug\netcoreapp3.1\Ch2-3MilesConverter.runtimeconfig.dev.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\bin\Debug\netcoreapp3.1\Ch2-3MilesConverter.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\bin\Debug\netcoreapp3.1\Ch2-3MilesConverter.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.AssemblyInfoInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.AssemblyInfo.cs
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch2-3MilesConverter\obj\Debug\netcoreapp3.1\Ch2-3MilesConverter.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\bin\Debug\SalesOrdersDB2.exe.config
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\bin\Debug\SalesOrdersDB2.exe
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\bin\Debug\SalesOrdersDB2.pdb
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.FormSalesOrdersAuto.resources
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.Properties.Resources.resources
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.exe
+C:\Users\Atomi\Desktop\SalesOrdersDB2\SalesOrdersDB2\obj\Debug\SalesOrdersDB2.pdb

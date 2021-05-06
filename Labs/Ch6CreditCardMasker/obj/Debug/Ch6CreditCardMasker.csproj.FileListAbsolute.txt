@@ -1,0 +1,9 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\bin\Debug\Ch6CreditCardMasker.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\bin\Debug\Ch6CreditCardMasker.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\bin\Debug\Ch6CreditCardMasker.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\obj\Debug\Ch6CreditCardMasker.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\obj\Debug\Ch6CreditCardMasker.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\obj\Debug\Ch6CreditCardMasker.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\obj\Debug\Ch6CreditCardMasker.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\obj\Debug\Ch6CreditCardMasker.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch6CreditCardMasker\obj\Debug\Ch6CreditCardMasker.pdb

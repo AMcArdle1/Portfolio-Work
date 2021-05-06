@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\bin\Debug\SalesOrder.exe.config
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\bin\Debug\SalesOrder.exe
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\bin\Debug\SalesOrder.pdb
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.FormSalesOrder.resources
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.Properties.Resources.resources
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.exe
+C:\Users\Atomi\Desktop\SalesOrders\SalesOrder\obj\Debug\SalesOrder.pdb

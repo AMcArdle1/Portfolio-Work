@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\bin\Debug\Ch10SuperHeroDatabase.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\bin\Debug\Ch10SuperHeroDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\bin\Debug\Ch10SuperHeroDatabase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.FormSHDB.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10SuperHeroDatabase\obj\Debug\Ch10SuperHeroDatabase.pdb

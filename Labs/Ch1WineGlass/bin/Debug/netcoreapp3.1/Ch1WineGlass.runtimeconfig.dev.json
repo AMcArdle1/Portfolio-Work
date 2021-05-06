@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Atomi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Atomi\\.nuget\\packages"
+    ]
+  }
+}

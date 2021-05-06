@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\bin\Debug\Ch5TestScoresGUI.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\bin\Debug\Ch5TestScoresGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\bin\Debug\Ch5TestScoresGUI.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScoresGUI\obj\Debug\Ch5TestScoresGUI.pdb

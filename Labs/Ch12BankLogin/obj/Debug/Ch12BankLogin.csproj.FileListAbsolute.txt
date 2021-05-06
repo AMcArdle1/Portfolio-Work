@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\bin\Debug\Ch12BankLogin.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\bin\Debug\Ch12BankLogin.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\bin\Debug\Ch12BankLogin.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12BankLogin\obj\Debug\Ch12BankLogin.pdb

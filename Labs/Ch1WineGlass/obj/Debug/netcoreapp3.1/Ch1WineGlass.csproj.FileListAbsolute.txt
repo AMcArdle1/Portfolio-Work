@@ -1,0 +1,13 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\bin\Debug\netcoreapp3.1\Ch1WineGlass.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\bin\Debug\netcoreapp3.1\Ch1WineGlass.deps.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\bin\Debug\netcoreapp3.1\Ch1WineGlass.runtimeconfig.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\bin\Debug\netcoreapp3.1\Ch1WineGlass.runtimeconfig.dev.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\bin\Debug\netcoreapp3.1\Ch1WineGlass.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\bin\Debug\netcoreapp3.1\Ch1WineGlass.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.AssemblyInfoInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.AssemblyInfo.cs
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch1WineGlass\obj\Debug\netcoreapp3.1\Ch1WineGlass.genruntimeconfig.cache

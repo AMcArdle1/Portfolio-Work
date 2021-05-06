@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\bin\Debug\Ch4EggsGUI.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\bin\Debug\Ch4EggsGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\bin\Debug\Ch4EggsGUI.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4EggsGUI\obj\Debug\Ch4EggsGUI.pdb

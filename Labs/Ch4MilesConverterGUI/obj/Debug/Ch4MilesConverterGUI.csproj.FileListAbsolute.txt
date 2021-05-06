@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\bin\Debug\Ch4MilesConverterGUI.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\bin\Debug\Ch4MilesConverterGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\bin\Debug\Ch4MilesConverterGUI.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4MilesConverterGUI\obj\Debug\Ch4MilesConverterGUI.pdb

@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\bin\Debug\Ch8DeliveryCharge.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\bin\Debug\Ch8DeliveryCharge.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\bin\Debug\Ch8DeliveryCharge.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.FormDeliveryCharge.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8DeliveryCharge\obj\Debug\Ch8DeliveryCharge.pdb

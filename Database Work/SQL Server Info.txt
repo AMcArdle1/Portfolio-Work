@@ -1,0 +1,5 @@
+Connection String: 
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+Server Name: 
+VINTER2\SQLEXPRESS

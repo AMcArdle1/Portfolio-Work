@@ -1,0 +1,13 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\bin\Debug\netcoreapp3.1\Ch5TestScores.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\bin\Debug\netcoreapp3.1\Ch5TestScores.deps.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\bin\Debug\netcoreapp3.1\Ch5TestScores.runtimeconfig.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\bin\Debug\netcoreapp3.1\Ch5TestScores.runtimeconfig.dev.json
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\bin\Debug\netcoreapp3.1\Ch5TestScores.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\bin\Debug\netcoreapp3.1\Ch5TestScores.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.AssemblyInfoInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.AssemblyInfo.cs
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.dll
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.genruntimeconfig.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5TestScores\obj\Debug\netcoreapp3.1\Ch5TestScores.csprojAssemblyReference.cache

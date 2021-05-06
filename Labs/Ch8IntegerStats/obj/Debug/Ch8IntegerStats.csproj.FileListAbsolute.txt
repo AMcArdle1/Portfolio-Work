@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\bin\Debug\Ch8IntegerStats.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\bin\Debug\Ch8IntegerStats.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\bin\Debug\Ch8IntegerStats.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8IntegerStats\obj\Debug\Ch8IntegerStats.pdb

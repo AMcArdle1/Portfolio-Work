@@ -1,0 +1,9 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\bin\Debug\Ch10StudentList.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\bin\Debug\Ch10StudentList.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\bin\Debug\Ch10StudentList.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\obj\Debug\Ch10StudentList.FormStudentList.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\obj\Debug\Ch10StudentList.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\obj\Debug\Ch10StudentList.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\obj\Debug\Ch10StudentList.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\obj\Debug\Ch10StudentList.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch10StudentList\obj\Debug\Ch10StudentList.pdb

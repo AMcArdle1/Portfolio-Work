@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\bin\Debug\Ch8ReverseFour.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\bin\Debug\Ch8ReverseFour.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\bin\Debug\Ch8ReverseFour.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8ReverseFour\obj\Debug\Ch8ReverseFour.pdb

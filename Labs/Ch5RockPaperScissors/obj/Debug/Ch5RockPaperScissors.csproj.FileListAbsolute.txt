@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\bin\Debug\Ch5RockPaperScissors.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\bin\Debug\Ch5RockPaperScissors.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\bin\Debug\Ch5RockPaperScissors.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch5RockPaperScissors\obj\Debug\Ch5RockPaperScissors.pdb

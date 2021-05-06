@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\bin\Debug\Ch12StoreInventory.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\bin\Debug\Ch12StoreInventory.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\bin\Debug\Ch12StoreInventory.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12StoreInventory\obj\Debug\Ch12StoreInventory.pdb

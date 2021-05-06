@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\bin\Debug\Ch4RaisesGUI.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\bin\Debug\Ch4RaisesGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\bin\Debug\Ch4RaisesGUI.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch4RaisesGUI\obj\Debug\Ch4RaisesGUI.pdb

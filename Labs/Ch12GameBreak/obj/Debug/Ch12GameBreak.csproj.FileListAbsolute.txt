@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\bin\Debug\Ch12GameBreak.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\bin\Debug\Ch12GameBreak.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\bin\Debug\Ch12GameBreak.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12GameBreak\obj\Debug\Ch12GameBreak.pdb

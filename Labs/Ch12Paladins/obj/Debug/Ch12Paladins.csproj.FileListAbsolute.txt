@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\bin\Debug\Ch12Paladins.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\bin\Debug\Ch12Paladins.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\bin\Debug\Ch12Paladins.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.Form1.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch12Paladins\obj\Debug\Ch12Paladins.pdb

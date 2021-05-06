@@ -1,0 +1,10 @@
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\bin\Debug\Ch8SortedPhrase.exe.config
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\bin\Debug\Ch8SortedPhrase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\bin\Debug\Ch8SortedPhrase.pdb
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.csprojAssemblyReference.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.FormSortedPhrase.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.Properties.Resources.resources
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.csproj.GenerateResource.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.csproj.CoreCompileInputs.cache
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.exe
+C:\Users\Atomi\Desktop\AWD1100\Labs\Labs\Ch8SortedPhrase\obj\Debug\Ch8SortedPhrase.pdb
