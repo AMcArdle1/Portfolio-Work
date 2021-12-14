@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background: darkslateblue;
+}
+
+footer {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 1rem;
+    background: black;
+    color: white;
+}
+
+.text {
+    display: block;
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.cards img {
+    width: 75%;
+}
+
+.cart-cards img {
+    width: 50%;
+}
+
+.order-cards img {
+    width: 25%;
+}
+
+@media (max-width: 800px) {
+    .cards img {
+        width: 40%;
+    }
+
+    .cart-cards img {
+        width: 25%;
+    }
+}
