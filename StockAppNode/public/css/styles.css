@@ -1,0 +1,115 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 4rem;
+    background: #080d0a;
+    color: #9cfffa;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 2.7rem;
+    font-weight: bold;
+}
+
+/*  Home Page   */
+
+.jumbotron {
+    padding: 1.5rem;
+    font-size: 2rem;
+    background: #7353BA;
+    color: #fff;
+}
+
+.jumbotron h2 {
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.home-content {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.home-content ul li {
+    list-style: url("../images/ticker.png");
+}
+
+#main-list {
+    text-align: left;
+    background-color: #65afff;
+    color: #000;
+}
+
+#main-list a {
+    color: #f6f740;
+}
+
+#main-list a:hover {
+    color: #7d5ba6;
+
+}
+
+
+/*  About Page  */
+.carousel-item img {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-body{
+    color: #65afff;
+}
+
+.card-body a {
+    color: #f6f740;
+    text-decoration: none;
+}
+
+.card-body a:hover {
+    color: #7d5ba6;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+}
+
+/*  Media Queries   */
+
+@media screen and (max-width: 650px) {
+    
+    .jumbotron {
+        font-size: 1.5rem;
+    }
+
+    .home-content {
+        font-size: 1.5rem;
+    }
+
+    .carousel-item img {
+        height: 55vw;
+    }
+
+    .card-img-top {
+        height: 45vw;
+    }
+
+}

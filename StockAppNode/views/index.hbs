@@ -1,0 +1,156 @@
+<main>
+    <h1 id="title">{{ title }}</h1>
+
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h2>{{ stock.companyName }}</h2>
+			<h3>({{ stock.symbol }})</h3>
+
+            <p>Primary Exchange: {{ stock.primaryExchange }} </p>
+            <p>Latest Price: ${{ stock.latestPrice }} </p>
+            <p>Previous Close: $ {{ stock.previousClose }}</p>
+            <p>52 Week High: $ {{ stock.week52High }}</p>
+            <p>52 Week Low: $ {{ stock.week52Low }}</p>
+            <p>Year-To-Date Change: {{ stock.ytdChange }} %</p>
+			<p>Market Cap: $ {{ stock.marketCap }}</p>
+
+        </div>
+
+		<br>
+
+		<div class="content">
+			<div id="main-list" class="container">
+				<h2 class="text-center">Term Definitions</h2>
+
+				<div class="accordion" id="accordionExample">
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="headingOne">
+							<button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+								Primary Exchange
+							</button>
+						</h2>
+						<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+							<div class="accordion-body">
+								<strong>Primary Exchange:</strong> The Most important stock exchange in a given country.
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="headingTwo">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+								Market Value
+							</button>
+						</h2>
+						<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+							<div class="accordion-body">
+								<strong>Market Value:</strong>
+								The Price at which a security is trading and cold presumably be purchased or sold.
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="headingThree">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+							Outstanding
+						</button>
+						</h2>
+						<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+							<div class="accordion-body">
+								<strong>Outstanding:</strong>
+								Stock held by shareholders.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+        <div class="home-content">
+			<div id="main-list" class="container">
+				<h2 class="text-center"> Most Popular Stocks </h2>
+				<p>
+					The following is a list of 73 of the most frequently traded stocks (preceded by their symbols),
+					as provided by: <a href="https://gretlcycu.files.wordpress.com/2013/08/quick-ticker-symbol-list.pdf"
+					target="_blank">Stock Market Simulation (SMS)</a>.
+				</p>
+
+				<ul>
+					<li>ADBE Adobe Systems Inc.</li>
+					<li>AFL AFLAC Inc</li>
+					<li>ALL Allstate Corp</li>
+					<li>AMZN Amazon.com Inc.</li>
+					<li>AXP American Express Company</li>
+					<li>BUD Anheuser-Busch Cos</li>
+					<li>TWX AOL Time Warner</li>
+					<li>AAPL Apple Computer Inc.</li>
+					<li>APPB Applebees International Inc.</li>
+					<li>AWE AT&T Wireless Corp</li>
+					<li>BKS Barnes & Noble Inc.</li>
+					<li>BBBY Bed Bath & Beyond Inc.</li>
+					<li>BDK Black & Decker Corp</li>
+					<li>HRB Block H & R Inc.</li>
+					<li>CPB Campbell Soup Co.</li>
+					<li>COF Capital One Financial</li>
+					<li>CAT Caterpillar Inc.</li>
+					<li>COKE Coca-Cola Bottling Co.</li>
+					<li>CL Colgate-Palmolive Co.</li>
+					<li>CTB Cooper Tire & Rubber</li>
+					<li>DELL Dell Computer Corp</li>
+					<li>DDS Dillard's Inc'A'</li>
+					<li>DIS Disney Walt Co.</li>
+					<li>DG Dollar General</li>
+					<li>DLTR Dollar Tree Stores Inc.</li>
+					<li>FDX FedEx Corp</li>
+					<li>F Ford Motor Co.</li>
+					<li>FB Facebook, Inc.</li>
+					<li>FOX Fox Entertainment Group</li>
+					<li>GM General Motors Corp</li>
+					<li>GE Genl Electric</li>
+					<li>GIS Genl Mills</li>
+					<li>GR Goodrich (B.F.)</li>
+					<li>GT Goodyear Tire & Rubber Co.</li>
+					<li>GOOG Google, Inc.</li>
+					<li>HDI Harley-Davidson</li>
+					<li>HAS Hasbro Inc.</li>
+					<li>HD Home Depot Inc.</li>
+					<li>HMC Honda Motor Co. Ltd.</li>
+					<li>INTC Intel Corp</li>
+					<li>JBX Jack in the Box Inc.</li>
+					<li>KSS Kohl's Corp</li>
+					<li>KKD Krispy Kreme Doughnuts Inc.</li>
+					<li>LTR Loews Corp</li>
+					<li>MAT Mattel, Inc</li>
+					<li>MCD McDonalds Corp</li>
+					<li>MDP Meredith Corp</li>
+					<li>MER Merrill, Lynch & Co. Inc.</li>
+					<li>MET MetLife Inc.</li>
+					<li>MGM Metro-Goldwyn-Mayer Inc.</li>
+					<li>MSFT Microsoft Corp</li>
+					<li>JWN Nordstrom, Inc</li>
+					<li>PZZA Papa Johns Intl. Inc.</li>
+					<li>PSS Payless Shoesource Inc.</li>
+					<li>JCP Penny J.C. Co. Inc.</li>
+					<li>PEP Pepsico Inc.</li>
+					<li>MO Philip Morris Cosv
+					<li>RSH RadioShack Corp</li>
+					<li>SLE Sara Lee Corp</li>
+					<li>SCH Schwab(Charles)Corp</li>
+					<li>S Sears-Roebuck</li>
+					<li>SBUX Starbucks Corporation</li>
+					<li>TGT Target Corp</li>
+					<li>TXN Texas Instruments</li>
+					<li>LTD The Limited Inc.</li>
+					<li>TOM Tommy Hilfiger Corp</li>
+					<li>TM Toyota Motor Corp</li>
+					<li>VZ Verizon Communications</li>
+					<li>WAG Walgreen Company</li>
+					<li>WMT Wal-Mart Stores Inc.</li>
+					<li>WHR Whirlpool Corp</li>
+					<li>XRX Xerox Corporation</li>
+					<li>YHOO Yahoo Inc.</li>
+				</ul>
+			</div>
+        </div>
+    </div>
+
+</main>
